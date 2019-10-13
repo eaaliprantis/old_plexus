@@ -1,0 +1,20 @@
+{
+	"live": "MjkzNTA5OTAyNzcxNTUyMjU3.C_3nHA.1xec8vJO7_bQvSeRMY10PWrFMKI",
+	"live_id": "293509902771552257",
+	"test": "MzE0MTgwMDQ1NTI0NTY2MDE2.C_3l4w.AcqZlh886o5xs0Lr6GsL_rKMWcQ",
+	"test_id": "314180045524566016",
+	"eaa_test": "MzQyNDcwNjU3OTYwODM3MTIw.DGQHEQ.ChJ2kj8ZSRwUDbLnsO6jszGpHq4",
+	"eaa_active": true,
+	"eaa_token_id": "342471341691240449",
+	"active": false,
+	"prefix": "p!",
+	"prefixGame": "g!",
+	"owners": ["210269319311917056", "121928183531569153"],
+	"debug": false,
+	"database": {
+		"host": "158.69.205.25",
+		"username": "glados",
+		"pass": "4AgOROCehI4Ap8J1DOx6Lof1VInOx3",
+		"database": "Glados_server"
+	}
+}
