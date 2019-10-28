@@ -1,12 +1,12 @@
 {
 	"prefix": "p!",
 	"prefixGame": "g!",
-	"owners": ["210269319311917056", "121928183531569153"],
+	"owners": ["", ""],
 	"debug": false,
 	"database": {
-		"host": "158.69.205.25",
-		"username": "glados",
-		"pass": "4AgOROCehI4Ap8J1DOx6Lof1VInOx3",
-		"database": "Glados_server"
+		"host": "",
+		"username": "",
+		"pass": "",
+		"database": ""
 	}
 }
