@@ -8,7 +8,7 @@ var path = require('path');
 function Database() {
 }
 
-this.setupDatabase = function(_hostname = "158.69.209.32", _username = "eaaliprantis", _password = "6EE1014&28a", _database = "Glados_server", _port = 23306) {
+this.setupDatabase = function(_hostname = "", _username = "", _password = "", _database = "", _port = 3306) {
   this.hostname = _hostname;
 	this.database = _database;
 	this.username = _username;
